@@ -32,7 +32,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
 ## Business Queries and solutions
 1. Count of unique number of orders that are placed
 
-               ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/9bfec0ac-9970-4719-8314-166057b0e2b6)
+   ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/9bfec0ac-9970-4719-8314-166057b0e2b6)
    
    There are 95 unique users who have placed orders according to this dataset.
    
