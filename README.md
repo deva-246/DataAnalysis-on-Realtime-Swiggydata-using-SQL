@@ -3,6 +3,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
 
 ## Datasets
 **The fields present in Items dataset are,**
+            
             1. id
             
             2. Order_id
@@ -12,6 +13,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
             4. Is_veg/not
 
 **The fields present in Orders dataset are,**
+            
             1. id
             
             2. order_id
