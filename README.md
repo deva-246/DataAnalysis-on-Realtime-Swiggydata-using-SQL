@@ -27,6 +27,10 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
             6. rain_mode
             
             7. on_time
+
+
+# Business Queries and solutions
+
             
 
 
