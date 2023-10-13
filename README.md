@@ -51,9 +51,13 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
 4.  Which Restaurent holds most of the orders ?
 
     ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/68b8cc0d-8b06-4f95-a608-2d278e46eb83)
+    
     ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/e4b61785-5daf-4261-a905-cd880b58fdc0)
+
     ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/377aba1b-8f0a-43b6-8dd6-61ceb4b9dfd1)
+    
     ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/5e8a17f7-f73e-4437-bfcb-68f3379d41bc)
+    
 
     **The Bowl company** is the restaurent which holds the highest number of orders according to the swiggy customers present in the dataset.
 
