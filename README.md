@@ -94,6 +94,45 @@ From the above results we can conclude that **October** month has generated the 
 
 ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/7219a3d9-c8da-42a9-bf8d-fdbafbf44a89)
 
+### 9. What is the count of unique food items that are ordered?
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/346ed1bb-bd47-49c6-abb0-846db72a123b)
+
+There are **164** unique items.
+
+### 10. which is the most ordered item?
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/904183ae-65df-450f-9a2b-cff0286ab5ce)
+
+**Classic Mac & cheese** is the most ordered item.
+
+### 11. Details about veg and non-veg items ?]
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/1d20611a-59bf-4150-8f90-55e9010491af)
+
+            A. There are **180** **veg** items
+            B. There are **12** **non veg** items
+            C. There is **1** undefined category item
+            
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/1c9b902b-6a2d-4b74-8a3c-5aa2e52240b2)
+
+Here the undeifined category can be considered as **Desserts**.
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
