@@ -68,7 +68,42 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
 ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/5e8a17f7-f73e-4437-bfcb-68f3379d41bc)
     
 
-    **The Bowl company** is the restaurent which holds the highest number of orders according to the swiggy customers present in the dataset. from the above results we can also categorize the restaurents as **most favourite , favourite and least favourite** by which required recommendations can be activated by the company to attract its customer to place an order. 
+**The Bowl company** is the restaurent which holds the highest number of orders according to the swiggy customers present in the dataset. from the above results we can also categorize the restaurents as **most favourite , favourite and least favourite** by which required recommendations can be activated by the company to attract its customer to place an order. 
+
+### 5. List out the orders count in the form of Month and Year combination?
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/07a340db-af98-4a2b-b1ed-370f302695cc)
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/3ae3ecd2-5df7-40d0-8e0a-53bfd2b67cb0)
+
+From the above result, **2021, October** holds the highest number of Orders.
+
+### 6. What is the revenue earned by swiggy on each month ?
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/7d15f49e-9eca-4312-a6d1-a182a6ee8205)
+
+From the above results we can conclude that **October** month has generated the highest revenue and **March** month has generated least revenue, considering this more discounts and offers can be included during the least revenue months to bosst up the sales.
+
+### 7. What is the average order value ?
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/e61fa810-dd50-4af1-b213-cd38ccaf4194)
+
+### 8. Revenue based difference ?
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/b88832df-f7b2-4b7c-aecf-0bb03b1c4b97)
+
+![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/7219a3d9-c8da-42a9-bf8d-fdbafbf44a89)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
