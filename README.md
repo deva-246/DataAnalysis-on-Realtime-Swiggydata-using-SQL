@@ -30,7 +30,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
 
 
 ## Business Queries and solutions
-1. Count of unique number of orders that are placed ?
+# 1. Count of unique number of orders that are placed ?
 
    ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/9bfec0ac-9970-4719-8314-166057b0e2b6)
    
@@ -39,7 +39,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
    
    
 
-2. At what modes of rain were orders placed?
+# 2. At what modes of rain were orders placed?
 
    ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/0192b30f-7201-4c39-ba72-2484f4c87ec8)
 
@@ -48,7 +48,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
    
    
 
-3.  What are the uniqiue restaurent names from the overall orders that have been placed?
+# 3.  What are the uniqiue restaurent names from the overall orders that have been placed?
 
    ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/f290ab7c-7a34-48b9-9345-321b54263034)
 
@@ -57,7 +57,7 @@ Using SQL to manipulate and clean the data, analyzing to discover trends and pat
    
    
 
-4.  Which Restaurent holds most of the orders ?
+# 4.  Which Restaurent holds most of the orders ?
 
     ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/68b8cc0d-8b06-4f95-a608-2d278e46eb83)
     
