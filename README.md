@@ -110,9 +110,9 @@ There are **164** unique items.
 
 ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/1d20611a-59bf-4150-8f90-55e9010491af)
 
-            A. There are **180** **veg** items
-            B. There are **12** **non veg** items
-            C. There is **1** undefined category item
+A. There are **180** **veg** items
+B. There are **12** **non veg** items
+C. There is **1** undefined category item
             
 ![image](https://github.com/deva-246/DataAnalysis-on-Realtime-Swiggydata-using-SQL/assets/75877347/1c9b902b-6a2d-4b74-8a3c-5aa2e52240b2)
 
